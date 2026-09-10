@@ -1,4 +1,4 @@
-// Sourced Sep 9, 2026 from WeWorkRemotely, MyJobMag and HotNigerianJobs.
+// Sourced Sep 10, 2026 from WeWorkRemotely, MyJobMag and HotNigerianJobs.
 // Edit freely — this is just the seed list "Today's picks" starts from.
 export const PICKS = [
   { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Frontend Web Developer (React/TypeScript)", company: "Zensors", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/zensors-frontend-web-developer-react-typescript-remote" },
@@ -8,16 +8,17 @@ export const PICKS = [
   { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Front-End Developer (Full-Time, Remote)", company: "Horizon Asset Investments", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/horizon-asset-investments-front-end-developer-full-time-remote" },
   { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Frontend Engineer (UI Engineer)", company: "Mobena", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer" },
   { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Frontend Developer with UX Design skills (7+ years)", company: "Kadoa", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/kadoa-frontend-developer-with-ux-design-skills-7-years-of-experience" },
-  { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Senior Frontend Engineer", company: "Level", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/level-senior-frontend-engineer" },
   { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Frontend Developer (Design-Minded)", company: "C4Media", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/c4media-frontend-developer" },
   { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Senior Vue Developer", company: "Lemon.io", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer" },
   { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Senior Vue.js Developer", company: "Proxify AB", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer-1" },
+  { tag: "Remote · anywhere", source: "WeWorkRemotely", role: "Front End Web Developer, WFH", company: "InterContinental Recruiting", location: "Remote (worldwide)", link: "https://weworkremotely.com/remote-jobs/intercontinental-recruiting-front-end-web-developer-wfh" },
   { tag: "Nigeria · Lagos", source: "MyJobMag", role: "Senior Frontend Engineer (React)", company: "Moniepoint Inc.", location: "Lagos, Nigeria", link: "https://www.myjobmag.com/job/senior-frontend-engineer-react-moniepoint-12" },
   { tag: "Nigeria · Lagos", source: "MyJobMag", role: "Mid-Level Frontend Engineer", company: "Mkobo Microfinance Bank", location: "Lagos, Nigeria", link: "https://www.myjobmag.com/job/mid-level-frontend-engineer-mkobo-microfinance-bank" },
   { tag: "Nigeria · Lagos", source: "MyJobMag", role: "Senior Frontend Developer (React)", company: "247Bet", location: "Lagos (hybrid)", link: "https://www.myjobmag.com/jobs/senior-frontend-developer-react-at-247bet" },
   { tag: "Africa · Kenya", source: "MyJobMag", role: "Front-end Developer", company: "Britam", location: "Nairobi, Kenya", link: "https://www.myjobmag.co.ke/job/front-end-developer-britam" },
   { tag: "Africa · Kenya", source: "MyJobMag", role: "Front-End Developer", company: "Co-operative Bank of Kenya", location: "Nairobi, Kenya", link: "https://www.myjobmag.co.ke/job/front-end-developer-co-operative-bank-of-kenya-3" },
   { tag: "Africa · Kenya", source: "MyJobMag", role: "Front End Developer (React & AI-Native Tools)", company: "INUA AI", location: "Nairobi, Kenya", link: "https://www.myjobmag.co.ke/job/front-end-developer-react-ai-native-tools-inua-ai" },
+  { tag: "Africa · Kenya", source: "MyJobMag", role: "Front-End Developer Intern", company: "d.light", location: "Nairobi, Kenya", link: "https://www.myjobmag.co.ke/job/front-end-developer-intern-d-light" },
   { tag: "Africa · South Africa", source: "MyJobMag", role: "Senior Front-End Developer", company: "Salt South Africa (Recruit Digital)", location: "South Africa", link: "https://www.myjobmag.co.za/job/senior-front-end-developer-recruit-digital" },
   { tag: "Nigeria · Lagos", source: "HotNigerianJobs", role: "Frontend Developer", company: "Hampshire Heights Global Company Limited (HHGCL)", location: "Lagos", link: "https://www.hotnigerianjobs.com/hotjobs/931045/frontend-developer-at-hampshire-heights-global-com.html" },
   { tag: "Nigeria · Abuja", source: "HotNigerianJobs", role: "Frontend Developer", company: "Team Manager", location: "Utako, Abuja", link: "https://www.hotnigerianjobs.com/hotjobs/803031/frontend-developer-at-team-manager.html" },
